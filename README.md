@@ -20,6 +20,7 @@ https://www.codecademy.com/learn/learn-intermediate-java
 ---
 **Mad Libs:**
 - [ ] TBD
+
 **Math Magic:**
 - [ ] TBD
 
