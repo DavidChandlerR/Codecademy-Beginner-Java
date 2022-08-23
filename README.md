@@ -44,7 +44,7 @@ $ java HelloWorld
 
 **Build A Droid:**
 
-- [ ] [`Build A Droid`]
+- [ ] [`Build A Droid`](https://github.com/DavidChandlerR/-Codecademy-Beginner-Java-/tree/main/3-Build-A-Droid/Build%20A%20Droid/src)
 
 ## 4. Conditionals and Control Flow
 
