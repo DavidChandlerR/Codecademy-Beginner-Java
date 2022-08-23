@@ -7,6 +7,9 @@
 Curriculum Student: David Ryan
 (David_Ryan@live.com)
 
+IDE: [`IntelliJ IDEA Community Edition`](https://www.jetbrains.com/idea/)
+
+
 <!-- links to social media accounts -->
 
 ## Course Link
@@ -15,8 +18,11 @@ https://www.codecademy.com/learn/learn-intermediate-java
 
 ## 1. Hello World
 ---
+**Hello World:**
 - [ ] TBD
 
+**Planting A Tree:**
+- [ ] [`Tree.java`](https://github.com/DavidChandlerR/-Codecademy-Beginner-Java-/tree/main/1-Planting-a-Tree/Planting%20A%20Tree/src) 
 ## 2. Variables ##
 ---
 **Mad Libs:**
@@ -39,34 +45,34 @@ https://www.codecademy.com/learn/learn-intermediate-java
 ---
 **A Simple Car Loan Payment Calculator:**
 
-- [ ] [`Calculator.java`]https://github.com/DavidChandlerR/-Codecademy-Beginner-Java-/tree/main/3-A-Basic-Calculator/A%20Basic%20Calculator/src
+- [ ] [`Calculator.java`](https://github.com/DavidChandlerR/-Codecademy-Beginner-Java-/tree/main/4-A-Simple-Loan-Payment-Calculator/A%20Simple%20Car%20Loan%20Payment%20Calculator/src)
 
 ## 5. Arrays and ArrayLists
 ---
 **Desert Island Playlist:**
 
 - [ ] [`Playlist.java`](5-arrays-arraylists/Playlist.java)
-## 6. 
+## 6. Loops
 ---
 - [ ] TBD
 
-## 7. 
+## 7. String Methods
 ---
 - [ ] TBD
 
-## 8. 
+## 8. Access, Encapsulation, and Static Methods
 ---
 - [ ] TBD
 
-
-
-## 9. 
+## 9. Inheritance and Polymorphism
 ---
-### Heading 3
-#### Heading 4
+- [ ] TBD
 
+## 10. Debugging
+---
+- [ ] TBD
 
-*This text* is italic
+## 8. Two-Dimensional Arrays
+---
+- [ ] TBD
 
-**Super Strong Text**
-[Traversy Media]()
