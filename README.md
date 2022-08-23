@@ -2,6 +2,7 @@
 
 <p style="text-align: center;">Hello and welcome to my Java Intermediate coding projects provided by Codecademy Pro! Below are links to projects I've completed as I've progressed through the curriculum.
 
+<p style="text-align: center;">All comments made in the projects are from the student - Me!
 
 Curriculum Student: David Ryan
 (David_Ryan@live.com)
@@ -14,7 +15,7 @@ https://www.codecademy.com/learn/learn-intermediate-java
 
 ## 1. Hello World
 ---
-
+- [ ] TBD
 
 ## 2. Variables ##
 ---
@@ -33,7 +34,7 @@ https://www.codecademy.com/learn/learn-intermediate-java
 **Build A Droid:**
 
 - [ ] TBD
-- [ ] TBD
+
 ## 4. 
 ---
 **A Simple Car Loan Payment Calculator:**
@@ -59,7 +60,7 @@ https://www.codecademy.com/learn/learn-intermediate-java
 
 
 
-## 3. 
+## 9. 
 ---
 ### Heading 3
 #### Heading 4
