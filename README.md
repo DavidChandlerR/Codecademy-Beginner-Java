@@ -31,7 +31,7 @@ $ java HelloWorld
 ## 2. Variables ##
 
 **Mad Libs:**
-- [ ] [`Mad Libs`]
+- [ ] [`Mad Libs`](https://github.com/DavidChandlerR/-Codecademy-Beginner-Java-/tree/main/2-Mad-Libs/Mad%20Libs/src)
 
 **Math Magic:**
 - [ ] [`Magic.java`](https://github.com/DavidChandlerR/-Codecademy-Beginner-Java-/tree/main/2-Math-Magic/src)
@@ -75,7 +75,7 @@ $ java HelloWorld
 
 ## 10. Debugging
 
-- [ ] [`Bug Detective`]
+- [ ] [`Bug Detective`](https://github.com/DavidChandlerR/-Codecademy-Beginner-Java-/tree/main/10-Debugging/Bug%20Detective/src)
 
 ## 11. Two-Dimensional Arrays
 
