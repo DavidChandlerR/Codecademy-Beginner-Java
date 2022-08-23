@@ -63,7 +63,7 @@ $ java HelloWorld
 
 ## 7. String Methods
 
-- [ ] [`DNA Sequencing`]
+- [ ] [`DNA Sequencing`](https://github.com/DavidChandlerR/-Codecademy-Beginner-Java-/tree/main/7-String-Methods/DNA%20Sequencing/src)
 
 ## 8. Access, Encapsulation, and Static Methods
 
