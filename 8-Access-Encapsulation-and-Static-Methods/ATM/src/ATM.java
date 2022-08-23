@@ -12,7 +12,7 @@ public class ATM{
         totalMoney += inputMoney;
     }
     /*
-    Edit the withdrawMoney() method so when money is taken out of a specific ATM, 
+    Edit the withdrawMoney() method so when money is taken out of a specific ATM,
     The static variable totalMoney also reflects that change.
     */
     public void withdrawMoney(int amountToWithdraw){
