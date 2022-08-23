@@ -56,7 +56,7 @@ $ java HelloWorld
 
 **Desert Island Playlist:**
 
-- [ ] [`Playlist.java`](5-arrays-arraylists/Playlist.java)
+- [ ] [`Playlist.java`](https://github.com/DavidChandlerR/-Codecademy-Beginner-Java-/tree/main/5-Arrays-ArrayLists/Desert%20Island%20Playlist/src)
 ## 6. Loops
 
 - [ ] [`The Prime Directive`](https://github.com/DavidChandlerR/-Codecademy-Beginner-Java-/tree/main/6-Loops/The%20Prime%20Directive/src)
@@ -71,7 +71,8 @@ $ java HelloWorld
 
 ## 9. Inheritance and Polymorphism
 
-- [ ] [`Language Families`]
+- [ ] [`Language Families`](https://github.com/DavidChandlerR/-Codecademy-Beginner-Java-/blob/main/9-Inheritance-and-Polymorphism/Language%20Families/src/Language.java
+)
 
 ## 10. Debugging
 
@@ -79,5 +80,5 @@ $ java HelloWorld
 
 ## 11. Two-Dimensional Arrays
 
-- [ ] [`2D Arrays: Image Manipulation Project`]
+- [ ] [`2D Arrays: Image Manipulation Project`](https://github.com/DavidChandlerR/-Codecademy-Beginner-Java-/tree/main/11-Two-Dimentional-Arrays/Arrays%20Image%20Manipulation%20Project/src)
 
