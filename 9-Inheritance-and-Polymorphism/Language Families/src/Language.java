@@ -22,10 +22,10 @@ public class Language {
         Mayan Chontal = new Mayan("Chontal", 36810);
         Chontal.getInfo();
 
-        SinoTibetan MandarinChinese = new SinoTibetan("Chinese", 9999999);
+        Mayan MandarinChinese = new Mayan("Chinese", 9999999);
         MandarinChinese.getInfo();
 
-        SinoTibetan Bermese = new SinoTibetan("Bermese", 9999999);
+        Mayan Bermese = new Mayan("Bermese", 9999999);
         MandarinChinese.getInfo();
     }
 }

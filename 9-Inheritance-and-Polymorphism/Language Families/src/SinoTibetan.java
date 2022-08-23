@@ -1,6 +1,6 @@
-public class Mayan extends Language {
+public class SinoTibetan extends Language {
 
-    public Mayan(String name, int numSpeakers) {
+    public SinoTibetan(String name, int numSpeakers) {
         super (name, numSpeakers, "Central America", "Verb-Object-Subject");
     }
 
