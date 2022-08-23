@@ -23,25 +23,25 @@ https://www.codecademy.com/learn/learn-intermediate-java
 - [ ] TBD
 
 **Math Magic:**
-- [ ] TBD
+- [ ] [`Magic.java`](https://github.com/DavidChandlerR/-Codecademy-Beginner-Java-/tree/main/2-Math-Magic/src)
 
-## 3. 
+## 3. Object-Oriented Java
 ---
 **A Basic Calculator:**
 
-- [ ] TBD
+- [ ] [`Calculator.java`](https://github.com/DavidChandlerR/-Codecademy-Beginner-Java-/tree/main/3-A-Basic-Calculator/A%20Basic%20Calculator/src)
 
 **Build A Droid:**
 
 - [ ] TBD
 
-## 4. 
+## 4. Conditionals and Control Flow
 ---
 **A Simple Car Loan Payment Calculator:**
 
-- [ ] TBD
+- [ ] [`Calculator.java`]https://github.com/DavidChandlerR/-Codecademy-Beginner-Java-/tree/main/3-A-Basic-Calculator/A%20Basic%20Calculator/src
 
-## 5. 
+## 5. Arrays and ArrayLists
 ---
 **Desert Island Playlist:**
 
