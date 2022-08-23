@@ -11,14 +11,21 @@ public class ATM{
         numATMs += 1;
         totalMoney += inputMoney;
     }
-
+    /*
+    Edit the withdrawMoney() method so when money is taken out of a specific ATM, 
+    The static variable totalMoney also reflects that change.
+    */
     public void withdrawMoney(int amountToWithdraw){
         if(amountToWithdraw <= this.money){
             this.money -= amountToWithdraw;
             totalMoney -= amountToWithdraw;
         }
     }
-
+/*
+Let’s write a static method that prints the average amount of money in all vending machines in the system.
+The method name should be averageMoney and it should be void since it doesn’t return anything.
+The method should print totalMoney divided by numATMs. Note that both of those variables are static.
+ */
     public static void averageMoney(){
         System.out.println(totalMoney / numATMs);
     }
