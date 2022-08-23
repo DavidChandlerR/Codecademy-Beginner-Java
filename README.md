@@ -19,7 +19,10 @@ https://www.codecademy.com/learn/learn-intermediate-java
 ## 1. Hello World
 ---
 **Hello World:**
-- [ ] TBD
+```
+$ javac HelloWorld.java
+$ java HelloWorld
+```
 
 **Planting A Tree:**
 - [ ] [`Tree.java`](https://github.com/DavidChandlerR/-Codecademy-Beginner-Java-/tree/main/1-Planting-a-Tree/Planting%20A%20Tree/src) 
