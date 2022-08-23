@@ -59,25 +59,25 @@ $ java HelloWorld
 - [ ] [`Playlist.java`](5-arrays-arraylists/Playlist.java)
 ## 6. Loops
 
-- [ ] TBD
+- [ ] [`The Prime Directive`](https://github.com/DavidChandlerR/-Codecademy-Beginner-Java-/tree/main/6-Loops/The%20Prime%20Directive/src)
 
 ## 7. String Methods
 
-- [ ] TBD
+- [ ] [`DNA Sequencing`]
 
 ## 8. Access, Encapsulation, and Static Methods
 
-- [ ] TBD
+- [ ] [`ATM Exercise`](https://github.com/DavidChandlerR/-Codecademy-Beginner-Java-/tree/main/8-Access-Encapsulation-and-Static-Methods/ATM/src)
 
 ## 9. Inheritance and Polymorphism
 
-- [ ] TBD
+- [ ] [`Language Families`]
 
 ## 10. Debugging
 
-- [ ] TBD
+- [ ] [`Bug Detective`]
 
 ## 11. Two-Dimensional Arrays
 
-- [ ] TBD
+- [ ] [`2D Arrays: Image Manipulation Project`]
 
