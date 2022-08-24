@@ -15,7 +15,7 @@ IDE: [`IntelliJ IDEA Community Edition`](https://www.jetbrains.com/idea/)
 <!-- links to social media accounts -->
 
 ## Course Link
----
+
 https://www.codecademy.com/learn/learn-java
 
 ## 1. Hello World
