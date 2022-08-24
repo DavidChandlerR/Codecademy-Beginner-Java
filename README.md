@@ -1,6 +1,6 @@
 # <p style="text-align: center;">Learn Java Projects
 
-<p style="text-align: center;">Hello and welcome to my Java Intermediate coding projects provided by Codecademy Pro. See links to projects below!
+<p style="text-align: center;">Hello and welcome to my Java introductory coding projects provided by Codecademy Pro. See links to projects below!
 
 <p style="text-align: center;">All comments made in the projects are from the student - Me!
 
