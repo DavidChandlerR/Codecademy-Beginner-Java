@@ -16,7 +16,7 @@ IDE: [`IntelliJ IDEA Community Edition`](https://www.jetbrains.com/idea/)
 
 ## Course Link
 ---
-https://www.codecademy.com/learn/learn-intermediate-java
+https://www.codecademy.com/learn/learn-java
 
 ## 1. Hello World
 
