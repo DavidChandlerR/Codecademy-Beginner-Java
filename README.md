@@ -81,4 +81,7 @@ $ java HelloWorld
 ## 11. Two-Dimensional Arrays
 
 - [ ] [`2D Arrays: Image Manipulation Project`](https://github.com/DavidChandlerR/-Codecademy-Beginner-Java-/tree/main/11-Two-Dimentional-Arrays/Arrays%20Image%20Manipulation%20Project/src)
+ 
+ Solution
+- [ ] [`2D Arrays: Image Manipulation Project`](https://github.com/DavidChandlerR/-Codecademy-Beginner-Java-/tree/main/11-Two-Dimentional-Arrays/Arrays%20Image%20Manipulation%20Project/src)
 
