@@ -83,5 +83,5 @@ $ java HelloWorld
 - [ ] [`2D Arrays: Image Manipulation Project`](https://github.com/DavidChandlerR/-Codecademy-Beginner-Java-/tree/main/11-Two-Dimentional-Arrays/Arrays%20Image%20Manipulation%20Project/src)
  
  Solution
-- [ ] [`2D Arrays: Image Manipulation Project`](https://github.com/DavidChandlerR/-Codecademy-Beginner-Java-/tree/main/11-Two-Dimentional-Arrays/Arrays%20Image%20Manipulation%20Project/src)
+- [ ] [`2D Arrays: Image Manipulation Project`](https://github.com/DavidChandlerR/Codecademy-Beginner-Java/blob/main/11-Two-Dimentional-Arrays/Arrays%20Image%20Manipulation%20Project/src/Solution/Solution.java)
 
